@@ -1,0 +1,14 @@
+.breathe-app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#breathe-instructions {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+#timer {
+    font-size: 3rem;
+    margin-top: 2rem;
+}
